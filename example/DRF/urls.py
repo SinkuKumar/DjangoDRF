@@ -51,6 +51,6 @@ router.register(r"users", UserViewSet)
 # Wire up our API using automatic URL routing.
 # Additionally, we include login URLs, for the browsable API.
 urlpatterns = [
-    path("", include(routers.urls)),
-    path("api-auth/", include("rest_frameworks.urls", namespace="rest_framework")),
+    path("", include(router.urls)),
+    path("api-auth/", include("rest_framework.urls", namespace="rest_framework")),
 ]

@@ -35,6 +35,7 @@
 - Example: using the given example in the homepage.
     - I'm not able to complete given example on homepage, I've got no idea how to run it.
     - Let's go ahead next, we'll figure this out with time.
+    - Update I've fixed the issues in example but, I'm able to login but not able to get the users.
 
 - Quickstart: getting started guide
 - Development
