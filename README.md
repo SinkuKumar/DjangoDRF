@@ -1,0 +1,2 @@
+# DjangoDRF
+Django DRF projects
